@@ -1,4 +1,4 @@
-# MySQL环境搭建
+# MySQL-win环境搭建
 
 ## 1. MySQL的卸载
 
